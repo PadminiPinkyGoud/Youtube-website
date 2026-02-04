@@ -3,7 +3,7 @@
 This is a YouTube-inspired website built using HTML and CSS to practice front-end development skills.
 
 ## 🔗 Live Website
-https://padminipinkygoud.github.io/youtube-website/
+https://padminipinkygoud.github.io/Youtube-website/
 
 ## 🛠️ Technologies Used
 - HTML5
